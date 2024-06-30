@@ -6,7 +6,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 **Note**: We do not support or condone piracy in any form. In order to use suyu, you'll need keys from your real Switch system, and games which you have legally obtained and paid for. We do not intend to make money or profit from this project.
 
-We're in need of developers. Please join our chat below if you want to contribute!
+We're in need of developers. Please join our chat below or DM a dev if you want to contribute!
 This repo was based on Yuzu EA 4176 but the code is being rewritten from the ground up for legal and performance reasons.
 
 Support the original suyu developer team [here](https://discord.gg/79B6wqFPnc).
@@ -29,6 +29,8 @@ It is written in C++ with portability in mind, and we actively provide builds fo
 
 <p align="center">
   <a href="https://chat.suyu.dev">Chat</a> |
+  <a href="https://www.reddit.com/r/suyu/">Reddit</a> |
+  <a href="https://github.com/suyu-emu/suyu">Mirror</a> |
   <a href="#status">Status</a> |
   <a href="#development">Development</a> |
   <a href="#downloads">Downloads</a> |
@@ -66,7 +68,7 @@ You can also contact any of the developers on the Chat to learn more about the c
 * __Linux__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
 * __macOS__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
 * __Android__: [Releases](https://git.suyu.dev/suyu/suyu/releases)
-###### We currently do not provide builds for iOS, however if you would like, you could try the experimental [Sudachi](https://github.com/emuPlace/Sudachi/releases)/[Folium](https://github.com/jarrodnorwell/Folium/releases).
+###### We currently do not provide builds for iOS, however if you would like, you could try the experimental [Sudachi](https://github.com/sudachi-emu/sudachi/releases/)/[Folium](https://github.com/jarrodnorwell/Folium/releases).
 
 If you want daily builds then [Click here](https://git.suyu.dev/suyu/suyu/actions).
 If you don't know how to download the daily builds then [Click here](https://git.suyu.dev/suyu/suyu/raw/branch/dev/img/daily-builds.png)
